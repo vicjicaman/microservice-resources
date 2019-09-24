@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/microservice-resources",
-  "version": "1.70.0-resources-service-prod",
+  "version": "1.70.0-master",
   "description": "Service for common resources",
   "main": "src/index.js",
   "repository": "github.com:vicjicaman/microservice-resources.git",
